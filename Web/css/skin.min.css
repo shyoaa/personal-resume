@@ -976,3 +976,11 @@ p{
 .slider li:nth-child(1) .caption{
 	top:33%!important;
 } 
+.slider li:nth-child(2) .caption{
+       right: 24%!important;
+       bottom: 35%!important;
+} 
+.slider li:nth-child(2) .caption p{
+      font-size: 16px!important;
+      margin-bottom: 10px!important;
+}
