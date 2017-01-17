@@ -964,14 +964,15 @@ p{
 	width: 100%
 }
 .slider li:nth-child(1) .htmleaf-header span{
-	display: block;
+    display: block;
+    text-align:center;
     float: left;
-    width: 18%;
+    width: 48%;
     background: #fff;
     border-radius: 5px;
-    margin: 0 1%;
+    margin: 10px 1%;
     
 }
 .slider li:nth-child(1) .caption{
-	top:20%!important;
+	top:33%!important;
 } 
