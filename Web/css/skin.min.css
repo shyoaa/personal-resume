@@ -984,3 +984,7 @@ p{
       font-size: 16px!important;
       margin-bottom: 10px!important;
 }
+.slider li:nth-child(3) .caption{
+       width: 91%!important;
+       right: 8%!important;
+} 
